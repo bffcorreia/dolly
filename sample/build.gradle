@@ -7,7 +7,7 @@ android {
   buildToolsVersion "26.0.2"
 
   defaultConfig {
-    applicationId "io.github.bffcorreia.dolly_root"
+    applicationId "com.example.dolly"
     minSdkVersion 15
     targetSdkVersion 26
     versionCode 1
