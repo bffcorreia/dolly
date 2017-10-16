@@ -1,1 +1,1 @@
-include ':sample', ':dolly'
+include ':sample', ':dolly-api', ':dolly-compiler'
